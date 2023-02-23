@@ -445,7 +445,7 @@
           </div>
 
           <div class="col-lg-8 col-md-6 footer-links">
-            <h4 class="text-inderline">LINKS</h4>
+            {{-- <h4 class="text-inderline">LINKS</h4> --}}
             {{-- <div class="row">
               <div><i class="bx bx-chevron-right"></i> <a href="/">Home</a></div>
               <div><i class="bx bx-chevron-right"></i> <a href="#about">About</a></div>
