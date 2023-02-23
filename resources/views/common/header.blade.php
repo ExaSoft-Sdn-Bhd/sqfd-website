@@ -13,6 +13,7 @@
           <li><a class="nav-link scrollto" href="#CEO">CEO</a></li>
           <li><a class="nav-link scrollto " href="#company">Company</a></li>
           <li><a class="getstarted scrollto" href="#contact">Contact</a></li>
+          <li><a class="getstarted scrollto" href="https://support.examedia.my/" target="blank">Support</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->

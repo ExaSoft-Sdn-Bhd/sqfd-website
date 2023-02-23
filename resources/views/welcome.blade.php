@@ -55,6 +55,7 @@
             <li><a class="nav-link scrollto fw-bold" href="#ceo">CEO</a></li>
             <li><a class="nav-link scrollto fw-bold" href="#company">Company</a></li>
             <li><a class="nav-link scrollto fw-bold" href="#contact">Contact</a></li>
+            <li><a class="nav-link scrollto fw-bold" href="https://support.examedia.my/" target="blank">Support</a></li>
           </ul>
           <i class="bi bi-list mobile-nav-toggle"></i>
         </nav><!-- .navbar -->
@@ -249,7 +250,7 @@
 
               <div class="box-2 col-sm ">
                 <div class="icon-box" data-aos="zoom-in" data-aos-delay="100">
-                  <a href="solution.examedia.my" target="blank">
+                  <a href="https://solution.examedia.my" target="blank">
                     <div class="icon"><i class="bi bi-usb-plug"></i></div>
                     {{-- <h4><a href="solution.examedia.my">EXAMEDIA <br> SOLUTION</a></h4> --}}
                     <h4>EXAMEDIA <br> SOLUTION</h4>
@@ -260,17 +261,17 @@
     
               <div class="box-2 col-sm ">
                 <div class="icon-box" data-aos="zoom-in" data-aos-delay="200">
-                  <a href="software.examedia.my" target="blank">
+                  <a href="https://software.examedia.my" target="blank">
                     <div class="icon"><i class="bi bi-laptop"></i></div>
                     <h4>EXAMEDIA <br> SOFTWARE</h4>
-                    <p style="color: #333333;">Enterprise software, custome build system & mobile application</p>
+                    <p style="color: #333333;">Enterprise software, custom build system & mobile application</p>
                   </a>
                 </div>
               </div>
     
               <div class="box-2 col-sm ">
                 <div class="icon-box" data-aos="zoom-in" data-aos-delay="200">
-                  <a href="technocraft.examedia.my" target="blank">
+                  <a href="https://technocraft.examedia.my" target="blank">
                     <div class="icon"><i class="bi bi-hammer"></i></div>
                     <h4>EXAMEDIA <br> TECHNOCRAFT</h4>
                     <p style="color: #333333;">Construction & interior design</p>
