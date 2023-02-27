@@ -169,23 +169,100 @@
     </section>
     <!-- End Why Us Section -->
 
-    <!-- ======= CEO Section ======= -->
-    <section id="ceo" class="team">
+    <!-- ======= About Section ======= -->
+    <section id="ceo" class="about">
       <div class="container">
         
-        <div class="row">
+        <div class="row content">
           <div class="col-lg-4">
             <div class="section-title" data-aos="fade-right">
               <h2>OUR CEO</h2>
               <p></p>
             </div>
           </div>
+
+          <div class="col-lg-8" >
+            <div class="ceo">
+              <div class="gambar d-flex justify-content-center">
+                <img src="assets/img/exa-group/ceo-hafiz-halim-small.png" style="height: 444px; onbjct-fit:cover  ;" class="img-fluid" alt="">
+              </div>
+    
+              <div class="perincian pt-4 pt-lg-0" data-aos="fade-left" data-aos-delay="200">
+                <h4 style="">HAFIZ HALIM</h4>
+                <h6>CEO/ Founder</h6>
+                <br>
+                <p>
+                  Hafiz Halim, Chief Executive Officer/ Founder is a wellknown technopreneur in the industry equipped with expertise
+                  both in technical and management. He has extensive working experience and heading many largescale projects during
+                  his tenure with Formis Network Services, Nokia Siemens Network and Sun Microsystems.
+                </p>
+              </div>
+            </div>
+
+          </div>
+
+          {{-- <div class="col-lg-4 d-flex justify-content-center">
+            <img src="assets/img/exa-group/ceo-hafiz-halim-small.png" style="height: 444px;" class="img-fluid" alt="">
+          </div>
+
+          <div class="col-lg-4 pt-4 pt-lg-0" data-aos="fade-left" data-aos-delay="200">
+            <div class="member-info" style="color:#ed1d29;">
+              <h4 style="font-weight:bold;">HAFIZ HALIM</h4>
+              <h6>CEO/ Founder</h6>
+            </div>
+            <br>
+            <p>
+              Hafiz Halim, Chief Executive Officer/ Founder is a wellknown technopreneur in the industry equipped with expertise
+              both in technical and management. He has extensive working experience and heading many largescale projects during
+              his tenure with Formis Network Services, Nokia Siemens Network and Sun Microsystems.
+            </p>
+          </div> --}}
+        </div>
+
+      </div>
+    </section><!-- End About Section -->
+
+    <!-- ======= CEO Section ======= -->
+    {{-- <section id="ceo" class="team">
+      <div class="container"> --}}
+        
+        {{-- <div class="row">
+          <div class="col-lg-4">
+            <div class="section-title" data-aos="fade-right">
+              <h2>OUR CEO</h2>
+              <p></p>
+            </div>
+          </div>
+
+          <div class="col-lg-4">
+            <div class="member " data-aos="zoom-in" data-aos-delay="100">
+              <div class="pic">
+                <img src="assets/img/exa-group/ceo-hafiz-halim-small.png" tyle="height: 2px;" class="img-fluid"    alt="">
+              </div>
+
+
+            </div>
+          </div>
+
+          <div class="col-lg-4 pt-4 pt-lg-0" data-aos="fade-left" data-aos-delay="200">
+            <div class="member-info">
+              <h4>HAFIZ HALIM</h4>
+              <h6>CEO/ Founder</h6>
+            </div>
+            <p>
+              Hafiz Halim, Chief Executive Officer/ Founder is a wellknown technopreneur in the industry equipped with expertise
+              both in technical and management. He has extensive working experience and heading many largescale projects during
+              his tenure with Formis Network Services, Nokia Siemens Network and Sun Microsystems.
+            </p>
+          </div>
+        </div> --}}
+
           
-          <div class="col-lg-8">
+          {{-- <div class="col-lg-8">
 
             <div class="row box-1 ">
 
-              {{-- <div class="  col-md-4 col-12">
+              <div class="  col-md-4 col-12">
                 <div class="member " data-aos="zoom-in" data-aos-delay="100">
                   <div class="pic">
                     <img src="assets/img/exa-group/ceo-hafiz-halim-small.png" class="img-fluid"  alt="">
@@ -205,18 +282,29 @@
                     <h6>Managing Director</h6>
                   </div>
                 </div>
-              </div> --}}
+              </div>
               
-                <div class="member col-md-4 col-12" data-aos="zoom-in" data-aos-delay="100">
+              <div class="col-lg-4">
+                <div class="member " data-aos="zoom-in" data-aos-delay="100">
                   <div class="pic">
-                    <img src="assets/img/exa-group/ceo-hafiz-halim-small.png" class="img-fluid"  alt="">
+                    <img src="assets/img/exa-group/ceo-hafiz-halim-small.png" class="img-fluid"    alt="">
                   </div>
                   <div class="member-info">
                     <h4>HAFIZ HALIM</h4>
                     <h6>CEO/ Founder</h6>
                   </div>
+
                 </div>
-    
+              </div>
+                
+              <div class="col-lg-4">
+                <p>
+                  Hafiz Halim, Chief Executive Officer/ Founder is a wellknown technopreneur in the industry equipped with expertise
+                  both in technical and management. He has extensive working experience and heading many largescale projects during
+                  his tenure with Formis Network Services, Nokia Siemens Network and Sun Microsystems.
+                </p>  
+              </div>
+
                 <div class="member col-md-4 col-12" data-aos="zoom-in" data-aos-delay="200">
                   <div class="pic"><img src="assets/img/exa-group/ceo-suhaimi-hassan-small.png" class="img-fluid" alt=""></div>
                   <div class="member-info">
@@ -226,11 +314,10 @@
                 </div>
             </div>
     
-          </div>
-        </div>
+          </div> --}}
     
-      </div>
-    </section>
+      {{-- </div>
+    </section> --}}
     <!-- End Team Section -->
 
     <!-- ======= Services Section ======= -->
@@ -319,7 +406,7 @@
                   <p>
                     <strong>Fax:</strong> +6 03 7832 0008 <br>
                     <strong>Phone:</strong> +6 03 7832 0008 <br>
-                    <strong>Email:</strong> info@examedia.my <br>
+                    <strong>Email:</strong> <a href="mailto:info@examedia.my">info@examedia.my</a>  <br>
                   </p>
               </div>
 
@@ -434,7 +521,7 @@
 
   </main><!-- End #main -->
 
-  <!-- ======= Footer ======= -->
+  {{-- <!-- ======= Footer ======= -->
   <footer id="footer">
 
     <div class="footer-top">
@@ -446,14 +533,14 @@
           </div>
 
           <div class="col-lg-8 col-md-6 footer-links">
-            {{-- <h4 class="text-inderline">LINKS</h4> --}}
-            {{-- <div class="row">
+            <h4 class="text-inderline">LINKS</h4>
+            <div class="row">
               <div><i class="bx bx-chevron-right"></i> <a href="/">Home</a></div>
               <div><i class="bx bx-chevron-right"></i> <a href="#about">About</a></div>
               <div><i class="bx bx-chevron-right"></i> <a href="#CEO">CEO</a></div>
               <div><i class="bx bx-chevron-right"></i> <a href="#company">Company</a></div>
               <div><i class="bx bx-chevron-right"></i> <a href="#contact">Contact</a></div>
-            </div> --}}
+            </div>
 
             <div class="container">
               <div class="row" >
@@ -474,16 +561,16 @@
                 </div>
               </div>
             </div>
-            {{-- <div class="row">
+            <div class="row">
               <div><i class="bx bx-chevron-right"></i> <a href="#hero">Home</a></div>
               <div><i class="bx bx-chevron-right"></i> <a href="#about">About</a></div>
               <div><i class="bx bx-chevron-right"></i> <a href="#CEO">CEO</a></div>
               <div><i class="bx bx-chevron-right"></i> <a href="#company">Company</a></div>
               <div><i class="bx bx-chevron-right"></i> <a href="#contact">Contact</a></div>
             </div>
-          </div> --}}
+          </div>
 
-          {{-- <div class="p-2 col-lg-4 col-md-6">
+          <div class="p-2 col-lg-4 col-md-6">
             <div class="  footer-newsletter" style="background-color: black;">
               <h4>Join Our Newsletter</h4>
               <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
@@ -491,22 +578,24 @@
                 <input type="email" name="email"><input type="submit" value="Subscribe">
               </form>
             </div>
-          </div> --}}
+          </div>
 
 
         </div>
       </div>
     </div>
 
-    <div class="container d-md-flex py-4 d-flex justify-content-center">
+    
+  </footer><!-- End Footer --> --}}
 
-      <div class="d-flex justify-content-center ">
-        <div class="copyright" style="  text-align: center;">
-          &copy; 2023 by <strong><span>EXAMEDIA GROUP</span></strong>. Proudly made by Examedia Group
-        </div>
+  <div class=" d-md-flex py-4 d-flex justify-content-center" style="background: #ed1d29;">
+
+    <div class="d-flex justify-content-center container">
+      <div class="copyright" style="  text-align: center; color:#fff">
+        &copy; 2023 by <strong><span>EXAMEDIA GROUP</span></strong>. Proudly made by Examedia Group
       </div>
     </div>
-  </footer><!-- End Footer -->
+  </div>
 
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 

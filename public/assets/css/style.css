@@ -61,6 +61,10 @@ h6 {
   font-family: "Raleway", sans-serif;
 }
 
+p {
+  text-align: justify;  
+}
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
@@ -578,6 +582,33 @@ section {
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
+.about .ceo {
+  /* pading: 1000px; */ 
+  background: var(--color-primary);
+}
+
+.about .ceo .gambar{
+  padding:30px;
+  object-fit: fill;
+}
+
+.about .ceo .perincian{
+  padding:30px;
+}
+
+.about .ceo .perincian h4 {
+  font-weight:bold;
+  color: #000000;
+}
+
+.about .ceo .perincian h6{
+  color: #000000;
+}
+
+.about .ceo .perincian p{
+  color: #ffff;
+}
+
 .about .content h2 {
   font-weight: 700;
   font-size: 48px;
@@ -817,6 +848,7 @@ section {
   line-height: 24px;
   font-size: 14px;
   margin-bottom: 0;
+  text-align: center;
 }
 
 .services .icon-box:hover {
@@ -1138,7 +1170,7 @@ section {
   /* object-fit: fill; */
   /* object-fit: cover; */
   /* border-radius: 50%; */
-  margin: 0 auto 20px auto;
+  /* margin: 0 auto 20px auto; */
 }
 
 .team .member .pic img {
