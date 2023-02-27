@@ -113,7 +113,7 @@
             </p>
             <p>
               We can help simplify the truly connected enterprise where systems integrate more seamlessly, technology connects more effectively, and processes run
-              effortlessly enabling information (and insights) to flow more freely. 
+              effortlessly enabling information to flow freely. 
             </p>
             <p>
               We are a digital transformation consultancy and software development company that provides cutting edge engineering solutions, helping companies and enterprise clients untangle
