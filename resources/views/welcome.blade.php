@@ -182,12 +182,12 @@
           </div>
 
           <div class="col-lg-8" >
-            <div class="ceo">
-              <div class="gambar d-flex justify-content-center">
-                <img src="assets/img/exa-group/ceo-hafiz-halim-small.png" style="height: 444px; onbjct-fit:cover  ;" class="img-fluid" alt="">
+            <div class="ceo row">
+              <div class="gambar d-flex justify-content-center col-md">
+                <img src="assets/img/exa-group/ceo-hafiz-halim-small.png" style="height: 444px; onbjct-fit:contain  ;" class="img-fluid" alt="">
               </div>
     
-              <div class="perincian pt-4 pt-lg-0" data-aos="fade-left" data-aos-delay="200">
+              <div class="perincian col-md" data-aos="fade-left" data-aos-delay="200">
                 <h4 style="">HAFIZ HALIM</h4>
                 <h6>CEO/ Founder</h6>
                 <br>
