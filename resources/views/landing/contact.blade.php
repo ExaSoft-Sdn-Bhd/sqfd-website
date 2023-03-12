@@ -1,5 +1,5 @@
 <!-- ======= Contact Section ======= -->
-<section id="contact" class="contact" style="background: #f6f6f7;">
+<section id="contact" class="contact" style="background: #ffffff;">
     <div class="container">
         <div class="row">
         <div class="col-lg-4" data-aos="fade-right">

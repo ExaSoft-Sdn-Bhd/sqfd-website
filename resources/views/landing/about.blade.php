@@ -60,7 +60,7 @@
             </div>
             <div class="col-xl-4 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="300">
                 <div class="icon-box mt-4 mt-xl-0">
-                <img src="assets/img/exa-group/about-4.png" class="img-fluid"  alt="">
+                <img src="assets\img\exa-group\about-new-3.png" class="img-fluid"  alt="">
                 <h4>Our Vision</h4>
                 <p>
                     Our Vision is to be a leading Web Solution company in the IT sector and progress in our current position in market.
