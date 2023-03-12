@@ -32,5 +32,51 @@
     </div>
 
     </div>
+
+    <div class="container why-us" >
+
+        <div class="row">
+        <div class="icon-boxes d-flex flex-column justify-content-center">
+            <div class="row">
+            <div class="col-xl-4 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+                <div class="icon-box mt-4 mt-xl-0">
+                <img src="assets/img/exa-group/about-2.png" class="img-fluid"  alt="">
+                <h4>Our Services</h4>
+                <p>
+                    Leverage our expertise in enterprise software development. We help organizations become a lasting success 
+                    in the global arena by re-engineering solutions of different complexity.
+                </p>
+                </div>
+            </div>
+            <div class="col-xl-4 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="200">
+                <div class="icon-box mt-4 mt-xl-0">
+                <img src="assets/img/exa-group/about-3.png" class="img-fluid"  alt="">
+                <h4>Our Mission</h4>
+                <p>
+                    Our mission is to help enterprises accelerate adoption of new technologies, untangle complex issues that always
+                    emerge during digital evolution, and orchestrate ongoing innovation.
+                </p>
+                </div>
+            </div>
+            <div class="col-xl-4 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="300">
+                <div class="icon-box mt-4 mt-xl-0">
+                <img src="assets/img/exa-group/about-4.png" class="img-fluid"  alt="">
+                <h4>Our Vision</h4>
+                <p>
+                    Our Vision is to be a leading Web Solution company in the IT sector and progress in our current position in market.
+                </p>
+                </div>
+            </div>
+            </div>
+        </div><!-- End .content-->
+        </div>
+
+    </div>
 </section>
 <!-- End About Section -->
+
+{{-- <!-- ======= ABOUT -MVS Section ======= -->
+<section id="" class="why-us">
+
+    </section>
+    <!-- End Why Us Section --> --}}
