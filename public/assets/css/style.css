@@ -561,7 +561,6 @@ section {
 # Clients
 --------------------------------------------------------------*/
 .clients {
-  background: #f6f6f7;
   text-align: center;
   padding: 5px 0;
 }
@@ -582,6 +581,10 @@ section {
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
+.about  {
+  /* background: #f6f6f7; */
+}
+
 .about .ceo {
   /* pading: 1000px; */ 
   background: var(--color-primary);
@@ -683,7 +686,8 @@ section {
 # Why Us
 --------------------------------------------------------------*/
 .why-us {
-  background: #000000;
+  background: #f6f6f7;
+  padding: 50px 0 0 0;
 }
 
 .why-us .content {
