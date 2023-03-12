@@ -21,8 +21,8 @@
                     <h6>CEO/ Founder</h6>
                     <br>
                     <p>
-                    Hafiz Halim, Chief Executive Officer/ Founder is a wellknown technopreneur in the industry equipped with expertise
-                    both in technical and management. He has extensive working experience and heading many largescale projects during
+                    Hafiz Halim, Chief Executive Officer/ Founder is a well known technopreneur in the industry equipped with expertise
+                    both in technical and management. He has extensive working experience and heading many large scale projects during
                     his tenure with Formis Network Services, Nokia Siemens Network and Sun Microsystems.
                     </p>
                 </div>
