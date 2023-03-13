@@ -9,7 +9,7 @@
 
   <div class="">@include('universal.header')</div>
 
-  <main style="padding-top: 120px;">
+  <main style="padding-top: 60px;">
     <!-- ======= event Section ======= -->
     <section  class="event">
       <div class="container">
