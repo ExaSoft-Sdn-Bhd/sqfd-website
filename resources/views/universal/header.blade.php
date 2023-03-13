@@ -14,11 +14,11 @@
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto fw-bold" href="/">Home</a></li>
-          <li><a class="nav-link scrollto fw-bold" href="#about">About</a></li>
-          <li><a class="nav-link scrollto fw-bold" href="#ceo">CEO</a></li>
-          <li><a class="nav-link scrollto fw-bold" href="#company">Company</a></li>
+          <li><a class="nav-link scrollto fw-bold" href="/#about">About</a></li>
+          <li><a class="nav-link scrollto fw-bold" href="/#ceo">BOARD</a></li>
+          <li><a class="nav-link scrollto fw-bold" href="/#company">subsidiaries</a></li>
           <li><a class="nav-link scrollto fw-bold" href="examedia-events">EVENT</a></li>
-          <li><a class="nav-link scrollto fw-bold" href="#contact">Contact</a></li>
+          <li><a class="nav-link scrollto fw-bold" href="/#contact">Contact</a></li>
           <li><a class="nav-link scrollto fw-bold" href="https://support.examedia.my/" target="blank">Support</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>

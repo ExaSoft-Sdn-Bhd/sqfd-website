@@ -5,7 +5,7 @@
         <div class="row content">
         <div class="col-lg-4">
             <div class="section-title" data-aos="fade-right">
-            <h2>OUR BOD</h2>
+            <h2>OUR BOARD</h2>
             <p></p>
             </div>
         </div>

@@ -5,7 +5,7 @@
         <div class="row">
         <div class="col-lg-4">
             <div class="section-title" data-aos="fade-right">
-            <h2>COMPANY</h2>
+            <h2>subsidiaries</h2>
             <p></p>
             </div>
         </div>
@@ -18,7 +18,7 @@
                 <a href="https://solution.examedia.my" target="blank">
                     <div class="icon"><i class="bi bi-usb-plug"></i></div>
                     {{-- <h4><a href="solution.examedia.my">EXAMEDIA <br> SOLUTION</a></h4> --}}
-                    <h4>EXAMEDIA <br> SOLUTION</h4>
+                    <h4>EXAMEDIA SOLUTION <br> SDN BHD</h4>
                     <p style="color: #333333;">Hardware, data centre & managed services.</p>
                 </a>
                 </div>
@@ -28,7 +28,7 @@
                 <div class="icon-box" data-aos="zoom-in" data-aos-delay="200">
                 <a href="https://software.examedia.my" target="blank">
                     <div class="icon"><i class="bi bi-laptop"></i></div>
-                    <h4>EXAMEDIA <br> SOFTWARE</h4>
+                    <h4>EXAMEDIA <br> SOFTWARE <br> SDN BHD</h4>
                     <p style="color: #333333;">Enterprise software, custom build system & mobile application.</p>
                 </a>
                 </div>
@@ -38,7 +38,7 @@
                 <div class="icon-box" data-aos="zoom-in" data-aos-delay="200">
                 <a href="https://technocraft.examedia.my" target="blank">
                     <div class="icon"><i class="bi bi-hammer"></i></div>
-                    <h4>EXAMEDIA <br> TECHNOCRAFT</h4>
+                    <h4>EXAMEDIA <br> TECHNOCRAFT <br> SDN BHD</h4>
                     <p style="color: #333333;">Construction & interior design.</p>
                 </a>
                 </div>

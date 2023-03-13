@@ -63,7 +63,7 @@
                 <img src="assets\img\exa-group\about-new-3.png" class="img-fluid"  alt="">
                 <h4>Our Vision</h4>
                 <p>
-                    Our Vision is to be a leading Web Solution company in the IT sector and progress in our current position in market.
+                    Our vision is to be a leading Web Solution company in the IT sector and progress in our current position in market.
                 </p>
                 </div>
             </div>
