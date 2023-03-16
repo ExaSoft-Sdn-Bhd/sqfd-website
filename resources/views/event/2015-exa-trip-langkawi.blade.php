@@ -126,7 +126,7 @@
                             </div>
                         </div><!-- End  item 1-->
 
-                        <!-- ###16### -->
+                        {{-- <!-- ###16### -->
                         <div class="swiper-slide">
                             <div class="testimonial-item ">
                             <img src="img\2015-trip-langkawi\2015-trip-langkawi (16).JPG" class="event-img" alt="">
@@ -138,11 +138,11 @@
                             <div class="testimonial-item ">
                             <img src="img\2015-trip-langkawi\2015-trip-langkawi (17).JPG" class="event-img" alt="">
                             </div>
-                        </div><!-- End  item 1-->
+                        </div><!-- End  item 1--> --}}
 
                     </div>
                     <br><br>
-                    <div class="d-none d-lg-block">
+                    <div class="">
                         <div class="swiper-pagination"></div>
                     </div>
 

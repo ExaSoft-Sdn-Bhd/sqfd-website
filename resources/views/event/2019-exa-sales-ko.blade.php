@@ -93,7 +93,7 @@
 
                     </div>
                     <br><br>
-                    <div class="d-none d-lg-block">
+                    <div class="">
                         <div class="swiper-pagination"></div>
                     </div>
 
