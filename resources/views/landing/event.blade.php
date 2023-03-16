@@ -212,7 +212,7 @@
 }
 
 .event .event-item .event-info {
-  opacity: 0;
+  /* opacity: 0; */
   /* position: absolute; */
   left: 30px;
   right: 30px;
@@ -277,9 +277,9 @@
   color: #ffa587;
 }
 
-.event .event-item:hover .event-info {
+/* .event .event-item:hover .event-info {
   opacity: 1;
   bottom: 20px;
-}
+} */
 
 </style>
