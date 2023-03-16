@@ -13,7 +13,7 @@
         <div class="col-lg-8" >
             <div class="ceo row">
                 <div class="gambar d-flex justify-content-center col-md">
-                    <img src="assets/img/exa-group/ceo-hafiz-halim-small.png" style="height: 444px; width: 100%; object-fit: cover ;" class="img-fluid" alt="">
+                    <img src="assets/img/exa-group/ceo-hafiz-halim-small.png" class="img-fluid" alt="">
                 </div>
         
                 <div class="perincian col-md" data-aos="fade-left" data-aos-delay="200">
@@ -31,12 +31,12 @@
 
             <div class="ceo row">
                 <div class="gambar d-flex justify-content-center col-md">
-                    <img src="assets\img\exa-group\bod-web-6.png" style="height: 444px; width: 100%; object-fit:cover  ;" class="img-fluid" alt="">
+                    <img src="assets\img\exa-group\bod-web-6.png"  class="img-fluid" alt="">
                 </div>
         
                 <div class="perincian col-md" data-aos="fade-left" data-aos-delay="200">
                     <h4 style="">MARZELITA REJAB</h4>
-                    <h6>Finance Director</h6>
+                    <h6>CFO (Chief Financial Officer)</h6>
                     <br>
                     <p>
                         Marzelita Rejab, Finance Director has 20 years working experience in IT and automotive industry,
