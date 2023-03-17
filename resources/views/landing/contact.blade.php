@@ -46,8 +46,7 @@
                         No 8 & 10, Jalan Opera L U2/L, <br>
                         TTDI Jaya,  Seksyen U2, <br>
                         40150 Shah Alam, Selangor
-                        <strong>Fax:</strong> +6 03 7832 0008 <br>
-                        <strong>Phone:</strong> +6 03 7832 0008 <br>
+
                         </p>
                     </div>
                 </div>
@@ -55,9 +54,9 @@
                     <div class=" box-contact-in info">
                         <i class="bi bi-envelope"></i>
                         <!-- <h4>Email:</h4> -->
-                        <p>
-                            <strong>Fax:</strong> +6 03 7832 0008 <br>
-                            <strong>Phone:</strong> +6 03 7832 0008 <br>
+                        <p style="color: #000000;">
+                            <strong>Fax:</strong> +60378320008 <br>
+                            <strong>Phone:</strong> +60378320008 <br>
                             <strong>Email:</strong> <a href="mailto:info@examedia.com.my">info@examedia.com.my</a>  <br>
                         </p>
                     </div>
