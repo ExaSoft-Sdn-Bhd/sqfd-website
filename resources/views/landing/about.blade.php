@@ -33,7 +33,7 @@
 
     </div>
 
-    <div class="container why-us" >
+    <div class="container why-us px-3" >
 
         <div class="row">
         <div class="icon-boxes d-flex flex-column justify-content-center">
