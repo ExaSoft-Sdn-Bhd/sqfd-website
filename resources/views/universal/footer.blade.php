@@ -69,7 +69,7 @@
 
     <div class="d-flex justify-content-center container">
       <div class="copyright" style="  text-align: center; color:#fff">
-        &copy; Copyright 2023 by <strong><span>EXAMEDIA GROUP</span></strong>. Proudly made by Examedia Software.
+        Copyright &copy;  2023 <span>Examedia Group</span>. Proudly made by Examedia Software.
       </div>
     </div>
   </div>
