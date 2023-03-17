@@ -54,7 +54,7 @@
                     <div class=" box-contact-in info">
                         <i class="bi bi-envelope"></i>
                         <!-- <h4>Email:</h4> -->
-                        <p style="color: #000000;">
+                        <p style="color: #1fe;">
                             <strong>Fax:</strong> +60378320008 <br>
                             <strong>Phone:</strong> +60378320008 <br>
                             <strong>Email:</strong> <a href="mailto:info@examedia.com.my">info@examedia.com.my</a>  <br>
