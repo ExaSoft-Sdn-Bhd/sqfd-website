@@ -604,7 +604,7 @@ section {
 .about .ceo .gambar img{
   /* padding:30px; */
   /* object-fit: fill; */
-  height: 444px;
+  /* height: 444px; */
   width: 100%; 
   object-fit: contain;
   object-position: top;
@@ -613,7 +613,7 @@ section {
 /* style="height: 444px; width: 100%; object-fit:cover  ;" */
 
 .about .ceo .perincian{
-  padding: 30px 30px 30px 30px ;
+  padding: 0px 30px 30px 30px ;
   /* margin: */
 }
 
