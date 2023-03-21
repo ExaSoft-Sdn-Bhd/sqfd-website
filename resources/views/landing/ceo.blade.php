@@ -169,7 +169,7 @@
         <div class="col-lg-8" >
             <div class="ceo row">
                 <div class="gambar d-flex justify-content-center col-md">
-                    <img src="assets\img\bod\group-hafiz.jpg" class="img-fluid" alt="">
+                    <img src="assets\img\bod\group-hafiz-halim-3.jpg" class="img-fluid" alt="">
                 </div>
         
                 <div class="perincian col-md" data-aos="fade-left" data-aos-delay="200">
