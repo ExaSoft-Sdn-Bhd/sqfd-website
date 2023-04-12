@@ -93,7 +93,7 @@
     opacity: 1;
     }
 </style> --}}
- 
+
 <!-- ======= Team Section ======= -->
 {{-- <section id="team" class="team section-bg">
     <div class="container">
@@ -127,7 +127,7 @@
                     </div>
                 </div>
 
-                
+
                 <div class="col-lg-6 col-md-6 " data-aos="fade-up" data-aos-delay="300">
                     <div class="member">
                         <div class="member-img d-flex align-items-center">
@@ -157,7 +157,7 @@
 <!-- ======= About Section ======= -->
 <section  class="about">
     <div class="container">
-        
+
         <div class="row content">
             <div class="col-lg-4">
                 <div class="section-title" data-aos="fade-right">
@@ -171,7 +171,7 @@
                 <div class="gambar d-flex justify-content-center col-md">
                     <img src="assets\img\bod\group-hafiz-halim-3.jpg" class="img-fluid" alt="">
                 </div>
-        
+
                 <div class="perincian col-md" data-aos="fade-left" data-aos-delay="200">
                     <h4 style="">HAFIZ HALIM</h4>
                     <h6>CEO/ Founder</h6>
@@ -189,13 +189,13 @@
                 <div class="gambar d-flex justify-content-center col-md">
                     <img src="assets\img\bod\group-zie-2.jpg"  class="img-fluid" alt="">
                 </div>
-        
+
                 <div class="perincian col-md" data-aos="fade-left" data-aos-delay="200">
                     <h4 style="">MARZELITA REJAB</h4>
                     <h6>CFO (Chief Financial Officer)</h6>
                     <br>
                     <p>
-                        Marzelita Rejab, Finance Director has 20 years working experience in IT and automotive industry,
+                        Marzelita Rejab, Chief Financial Officer has 20 years working experience in IT and automotive industry,
                         handling accounting, finance and various accounting systems.
                     </p>
                 </div>
@@ -212,7 +212,7 @@
 <!-- ======= CEO Section ======= -->
 {{-- <section id="ceo" class="team">
     <div class="container"> --}}
-    
+
     {{-- <div class="row">
         <div class="col-lg-4">
         <div class="section-title" data-aos="fade-right">
@@ -244,7 +244,7 @@
         </div>
     </div> --}}
 
-        
+
         {{-- <div class="col-lg-8">
 
         <div class="row box-1 ">
@@ -270,7 +270,7 @@
                 </div>
             </div>
             </div>
-            
+
             <div class="col-lg-4">
             <div class="member " data-aos="zoom-in" data-aos-delay="100">
                 <div class="pic">
@@ -283,13 +283,13 @@
 
             </div>
             </div>
-            
+
             <div class="col-lg-4">
             <p>
                 Hafiz Halim, Chief Executive Officer/ Founder is a wellknown technopreneur in the industry equipped with expertise
                 both in technical and management. He has extensive working experience and heading many largescale projects during
                 his tenure with Formis Network Services, Nokia Siemens Network and Sun Microsystems.
-            </p>  
+            </p>
             </div>
 
             <div class="member col-md-4 col-12" data-aos="zoom-in" data-aos-delay="200">
