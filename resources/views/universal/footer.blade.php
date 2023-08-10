@@ -81,7 +81,8 @@
 
   <div class="d-flex justify-content-center container">
     <div class="copyright" style="  text-align: center; color:#fff">
-      Copyright &copy; 2023 <span>SQF Diversify Sdn Bhd</span>. Proudly made by Examedia Software. All rights reserved.
+      Copyright &copy; 2023 <span>SQF Diversified Sdn Bhd</span>. Proudly made by Examedia Software. All rights
+      reserved.
     </div>
   </div>
 </div>
