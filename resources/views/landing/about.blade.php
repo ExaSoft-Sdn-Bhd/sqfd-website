@@ -12,7 +12,7 @@
             </div>
 
             <div class="col-lg-4">
-                <img src="assets/img/exa-group/about-1.png" class="img-fluid" alt="">
+                <img src="assets/img/sqfd/logo_sqf.png" class="img-fluid" alt="">
             </div>
 
             <div class="col-lg-4 pt-4 pt-lg-0" data-aos="fade-left" data-aos-delay="200">

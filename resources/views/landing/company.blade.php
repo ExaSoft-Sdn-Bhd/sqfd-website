@@ -18,11 +18,9 @@
                         <div class="row">
                             <div class="col-xl-4 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
                                 <div class="icon-box mt-4 mt-xl-0">
-                                    <a href="https://solutions.examedia.my" target="blank">
-                                        <div class="icon"><i class="bi bi-usb-plug"></i></div>
-                                        <h4>EXAMEDIA SOLUTIONS<br> SDN BHD</h4>
-                                        <p style="color: #333333;">Hardware, data centre & managed services.</p>
-                                    </a>
+                                    <div>
+                                        <img src="assets/img/sqfd/logo_sqf_horizon_b&w.png" alt="">
+                                    </div>
                                 </div>
                             </div>
                             <div class="col-xl-4 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="200">

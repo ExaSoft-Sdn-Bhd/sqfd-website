@@ -8,7 +8,7 @@
         <!-- <h1 class="text-light"><a href="index.html"><span>Bethany</span></a></h1> -->
         <!-- Uncomment below if you prefer to use an image logo -->
         {{-- <a href="/"><img src="assets/img/tim/tim-1.jpg" alt="" class="img-fluid"></a> --}}
-        <a href="/"><img src="assets/img/sqfd/logo_sqf_horizon_b&w.png" alt="" style=" width: 200px;"
+        <a href="/"><img src="assets/img/sqfd/logo_sqf_horizon_b&w.png" alt="" style=" width: 100px;"
             class="img-fluid"></a>
       </div>
 
@@ -16,7 +16,7 @@
         <ul>
           <li><a class="nav-link scrollto fw-bold" href="/">Home</a></li>
           <li><a class="nav-link scrollto fw-bold" href="/#about">About</a></li>
-          <li><a class="nav-link scrollto fw-bold" href="/#ceo">Experience</a></li>
+          {{-- <li><a class="nav-link scrollto fw-bold" href="/#ceo">Experience</a></li> --}}
           <li><a class="nav-link scrollto fw-bold" href="/#company">Partners</a></li>
           {{-- <li><a class="nav-link scrollto fw-bold" href="examedia-events">EVENT</a></li> --}}
           <li><a class="nav-link scrollto fw-bold" href="/#contact">Contact</a></li>
