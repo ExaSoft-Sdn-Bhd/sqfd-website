@@ -12,7 +12,7 @@
             <div class="col-lg-8" data-aos="fade-up" data-aos-delay="100">
                 <div class="">
                     <iframe style=" width: 100%; height: 300px;"
-                        src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15935.917055949072!2d101.5572644!3d3.1001691!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa9e770d04e07bea5!2sExamedia%20Solutions%20Sdn%20Bhd!5e0!3m2!1sen!2smy!4v1674766089587!5m2!1sen!2smy"
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3984.5669215680005!2d101.70833597522324!3d2.939992454402249!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31cdb61b51bf175f%3A0x21c01d119643b88d!2sShaftsbury%20Putrajaya!5e0!3m2!1sen!2smy!4v1691660834590!5m2!1sen!2smy"
                         allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
 
@@ -45,9 +45,6 @@
                             <i class="bi bi-geo-alt"></i>
                             <!-- <h4>Location:</h4> -->
                             <p>
-                                No 8 & 10, Jalan Opera L U2/L, <br>
-                                TTDI Jaya, Seksyen U2, <br>
-                                40150 Shah Alam, Selangor
                                 Lot 02-110 Tingkat 2, <br>
                                 Menara Shaftsbury Putrajaya, <br>
                                 Jalan Alamanda, Presint 1, <br>
