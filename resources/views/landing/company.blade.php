@@ -18,8 +18,8 @@
                         <div class="row">
                             <div class="col-xl-4 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
                                 <div class="icon-box mt-4 mt-xl-0">
-                                    <div style="width: 200px">
-                                        <img src="assets/img/sqfd/partner-2.png" alt="">
+                                    <div>
+                                        <img src="assets/img/sqfd/partner-2.png" alt="" tyle="width: 200px">
                                     </div>
                                 </div>
                             </div>
