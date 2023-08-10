@@ -2,7 +2,7 @@
 <section id="hero" class="d-flex align-items-center justify-content-center"
   style="background-image:url('assets/img/sqfd/background.jpeg');">
   <div class="container text-center position-relative" data-aos="fade-in" data-aos-delay="200">
-    <h1>WELCOME TO <br> SQF DIVERSIFY SDN BHD</h1>
+    <h1>WELCOME TO <br> SQF DIVERSIFIED SDN BHD</h1>
     {{-- <h2>We are team of talented designers making websites with Bootstrap</h2> --}}
     {{-- <a href="#about" class="btn-get-started scrollto">Get Started</a> --}}
   </div>
